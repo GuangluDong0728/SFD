@@ -8,7 +8,7 @@ This repository is the official implementation of CVPR 2025 "Exploring Semantic 
 Xiangyu Liao,
 Mingyang Li,
 Guihuan Guo,
-Chao Ren\*
+Chao Ren \*
  </br>
 Sichuan University
 
