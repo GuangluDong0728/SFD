@@ -3,6 +3,7 @@ This repository is the official implementation of CVPR 2025 "Exploring Semantic 
 <p align="center">
 <a href="https://arxiv.org/abs/2503.19295"><img src="https://img.shields.io/badge/arXiv-Paper-<color>"></a>
  
+ **[Exploring Semantic Feature Discrimination for Perceptual Image Super-Resolution and Opinion-Unaware No-Reference Image Quality Assessment](https://arxiv.org/abs/2503.19295)**
  </br>
 [Guanglu Dong](https://github.com/GuangluDong0728),
 Xiangyu Liao,
