@@ -18,5 +18,11 @@ Chao Ren \*
  </br>
 Sichuan University
 
+# Our Weights and Visual Results
+
+1. **Download Our Pretrained Weights:**
+   - Navigate to [this link](https://drive.google.com/drive/folders/1WWqA7KPi4E-2apUJ8Qhj5nIAl6ZiGcyJ?usp=drive_link) to download our weights for SISR and OU NR-IQA.
+2. **Download Our Visual Results:**
+   - Navigate to [this link](https://drive.google.com/drive/folders/13aePGEc92I_I4r8EX4RdUQlYI2ZkxS0G?usp=drive_link) to download our visual results.
   
-# Code is Coming soon!!
+# Training and Testing Code is Coming soon!!
